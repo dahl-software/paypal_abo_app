@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Diese Rails-App dient zur Demonstration der Integration von Paypal Subscriptions in einem Ruby on Rails-Projekt.
 
-Things you may want to cover:
+Die verwendete Ruby-Version ist 3.1.1.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Die Beschreibung zum Projekt befindet sich [hier](https://dahl.software/blog/use-paypal-subscriptions-in-a-rails-project/).
